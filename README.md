@@ -1,2 +1,4 @@
 # hello-world
-My first repository, and a place for me to learn how repositories work
+Hello,
+
+My name is Lloyd Padgett, and I am learning how to use Github!
